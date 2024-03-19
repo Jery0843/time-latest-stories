@@ -20,5 +20,5 @@ This project contains a simple web server written in Python that fetches and ser
 
 1. Run the server script:
    ```shell
-   curl http://localhost:8000/latest-stories
+   http://localhost:8000/latest-stories
 
