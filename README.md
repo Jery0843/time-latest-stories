@@ -20,7 +20,7 @@ This project contains a simple web server written in Python that fetches and ser
 
 1. Run the server script:
    ```shell
-   http://localhost:8000/latest-stories
+   python3 server.py
 
 2. Access the latest stories in JSON format:
    ```shell
