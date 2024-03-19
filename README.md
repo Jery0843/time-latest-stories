@@ -22,3 +22,7 @@ This project contains a simple web server written in Python that fetches and ser
    ```shell
    http://localhost:8000/latest-stories
 
+2. Access the latest stories in JSON format:
+   ```shell
+   curl http://localhost:8000/latest-stories
+
